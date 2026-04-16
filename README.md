@@ -1,4 +1,4 @@
-# PathwayViz Shiny App — v1.0.2
+# EnrichViz Shiny App — v1.0.2
 
 Interactive visualization of enriched pathways or biological functions from
 normalized proteomics or transcriptomics data.
