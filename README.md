@@ -1,5 +1,5 @@
 # EnrichViz Shiny App — v1.0.2
-
+Availabe free online https://rgmilian.shinyapps.io/EnrichViz/ 
 Interactive visualization of enriched pathways or biological functions from
 normalized proteomics or transcriptomics data.
 
